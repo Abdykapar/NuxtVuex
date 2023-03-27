@@ -13,7 +13,6 @@
   },
   "dependencies": {
     "bootstrap": "^5.2.3",
-    "miragejs": "^0.1.47",
     "vuex": "^4.0.2"
   }
 }
